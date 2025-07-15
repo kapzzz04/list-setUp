@@ -7,6 +7,4 @@ Visual Studio
 | PHP         | `PHP Intelephense`, `PHP Server`, `PHP Debug`                                                                       |
 
 
-Cara Masuk ke folder dekstop di github 
-**cd /c/Users/Administrator/Desktop/keyro
-**
+Cara Masuk ke folder dekstop di github **cd /c/Users/Administrator/Desktop/keyro**
