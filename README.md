@@ -8,3 +8,4 @@ Visual Studio
 
 
 Cara Masuk ke folder dekstop di github **cd /c/Users/Administrator/Desktop/keyro**
+Nah jadi nanti tinggal clone repo aja di folder keyro dari github apa yang di butuhin
