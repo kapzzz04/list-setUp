@@ -49,7 +49,21 @@ git clone https://github.com/username/nama-repo.git
 Saat melakukan clone pertama kali, Git akan meminta kamu untuk login. Gunakan akun GitHub kamu:
 
 * Masukkan **username GitHub**
+git config --global user.email "keyno569@gmail.com"
+git config --global user.name "kapzzz04"
 * Masukkan **personal access token** sebagai pengganti password (jika pakai HTTPS)
 
 ---
+Setelah repo berhasil dibuat, GitHub akan menampilkan perintah untuk menambahkan remote origin. Biasanya seperti ini:
+
+bash
+Salin
+Edit
+git remote add origin https://github.com/username/nama-repo.git
+Lalu dorong (push) isi folder ke GitHub:
+
+bash
+Salin
+Edit
+git push -u origin master
 
